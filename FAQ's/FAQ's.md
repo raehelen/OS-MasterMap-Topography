@@ -1,3 +1,7 @@
+# Frequently Asked Questions
+
+###### For more FAQ's please refer to our product support page https://www.ordnancesurvey.co.uk/business-and-government/help-and-support/products/topography-layer.html
+<br>
 <br>
 
 <details>
@@ -32,12 +36,16 @@ COU brings your dataset up to date with the most recent OS MasterMap data availa
 The update of real world features within OS MasterMap Topography Layer depends on what Category of change the feature falls in, as described in our Basic scale revision pollcy.
 </details>
 
+<br>
+
+<details>
 <summary>What scale is OS MasterMap Topography Layer data??</summary>
 <br>
 For cartographic representation, OS MasterMap Topography Layer is captured and designed for display at 1:1250, 1:2500 and 1:10 000 scales in urban, rural and mountain/moorland areas respectively. In GIS OS MasterMap can be viewed over a considerable range of scales. The most scale-sensitive feature types, such as cartographic text and symbol features, are fixed in size and rapidly become less clear at smaller display scales (that is, when zoomed out).
 <br>
 <br>
 OS MasterMap Topography Layer is also suitable for use in non–cartographic applications where the concept of scale is less applicable.
+</details>
 
 <br>
 <br>
