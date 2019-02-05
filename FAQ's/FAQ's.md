@@ -2,7 +2,6 @@
 
 ###### For more FAQ's please refer to our product support page https://www.ordnancesurvey.co.uk/business-and-government/help-and-support/products/topography-layer.html
 <br>
-<br>
 
 <details>
 <summary>How is this data supplied and what do I need to use it??</summary>
